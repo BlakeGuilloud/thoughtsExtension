@@ -1,32 +1,31 @@
-body{
+body {
   width: 300px;
   background-color: #62997A;
   font-family: 'Aclonica', sans-serif;
-  color: #563444;
-}
-form{
+  color: #563444; }
+
+form {
   display: flex;
   flex-direction: row;
-  align-items: center;
-}
-.submit{
+  align-items: center; }
+
+.submit {
   background-color: #1693A7;
   border-radius: 5px;
   font-family: 'Aclonica', sans-serif;
   padding: 5px;
-  width: 80px;
-}
-.text{
-    padding: 5px;
-    margin-right: 10px;
-    border-radius: 5px;
+  width: 80px; }
 
-}
+.text {
+  padding: 5px;
+  margin-right: 10px;
+  border-radius: 5px; }
 
 button {
   background-color: #72243D;
   color: white;
   border-radius: 5px;
   font-family: 'Aclonica', sans-serif;
-  padding: 5px;
-}
+  padding: 5px; }
+
+/*# sourceMappingURL=styles.css.map */
